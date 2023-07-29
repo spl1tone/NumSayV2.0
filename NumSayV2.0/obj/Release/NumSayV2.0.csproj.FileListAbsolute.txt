@@ -1,0 +1,8 @@
+E:\It\C#\NumSayV2.0\NumSayV2.0\bin\Release\NumSayV2.0.exe.config
+E:\It\C#\NumSayV2.0\NumSayV2.0\bin\Release\NumSayV2.0.exe
+E:\It\C#\NumSayV2.0\NumSayV2.0\bin\Release\NumSayV2.0.pdb
+E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Release\NumSayV2.0.csproj.AssemblyReference.cache
+E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Release\NumSayV2.0.csproj.SuggestedBindingRedirects.cache
+E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Release\NumSayV2.0.csproj.CoreCompileInputs.cache
+E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Release\NumSayV2.0.exe
+E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Release\NumSayV2.0.pdb
