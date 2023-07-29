@@ -449,28 +449,33 @@ namespace NumSayV2._0
             Console.WriteLine("Example> -2048");
             Console.WriteLine();
             while (true) {
+                try {
+                    Console.Write("Enter Num> ");
+                    num = Convert.ToInt64(Console.ReadLine());
 
-                Console.Write("Enter Num> ");
-                num = Convert.ToInt64(Console.ReadLine());
 
-                if (num > maxNum) {
-                    Console.WriteLine("Num > 999.999.999");
-                    break;
-                }
-                if (num < 0l) {
-                    num = num * -1l;
-                    Console.Write(liblaryRU.minus);
+
                     if (num > maxNum) {
-                        Console.WriteLine("Num < -999.999.999");
+                        Console.WriteLine("Num > 999.999.999");
                         break;
                     }
-                    Solve(num);
-                }
-                else {
-                    Solve(num);
-                }
 
-
+                    if (num < 0l) {
+                        num = num * -1l;
+                        Console.Write(liblaryRU.minus);
+                        if (num > maxNum) {
+                            Console.WriteLine("Num < -999.999.999");
+                            break;
+                        }
+                        Solve(num);
+                    }
+                    else {
+                        Solve(num);
+                    }
+                }
+                catch (Exception e) {
+                    Console.WriteLine(e.Message);
+                }
             }
 
             Console.ReadLine();

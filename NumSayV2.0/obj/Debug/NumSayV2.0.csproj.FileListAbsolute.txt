@@ -6,3 +6,10 @@ E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.csproj.SuggestedBindingRedir
 E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.csproj.CoreCompileInputs.cache
 E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.exe
 E:\It\C#\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.pdb
+C:\Users\levon\Source\Repos\NumSayV2.0\NumSayV2.0\bin\Debug\NumSayV2.0.exe.config
+C:\Users\levon\Source\Repos\NumSayV2.0\NumSayV2.0\bin\Debug\NumSayV2.0.exe
+C:\Users\levon\Source\Repos\NumSayV2.0\NumSayV2.0\bin\Debug\NumSayV2.0.pdb
+C:\Users\levon\Source\Repos\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.csproj.AssemblyReference.cache
+C:\Users\levon\Source\Repos\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.csproj.CoreCompileInputs.cache
+C:\Users\levon\Source\Repos\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.exe
+C:\Users\levon\Source\Repos\NumSayV2.0\NumSayV2.0\obj\Debug\NumSayV2.0.pdb
